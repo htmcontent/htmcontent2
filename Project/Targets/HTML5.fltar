@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap Clean XHTML Target"
+  Type="CleanXHTML"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/MasterPages/KB_Master_Page.flmsp"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterStylesheetOverride="True"
+  EnableFeedbackService="false"
+  LiveHelpServer=""
+  LiveHelpKey=""></CatapultTarget>
